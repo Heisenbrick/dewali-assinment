@@ -21,8 +21,7 @@ def main():
         # Format clean uppercase hex with standard prefix
         clean_hex = "0x" + hex(decimal_val)[2:].upper()
         
-        print("
---- Conversion Results ---")
+        print("\n--- Conversion Results ---")
         print(f"Decimal (Base 10)     : {decimal_val}")
         print(f"Binary (Base 2)       : {binary_val}  (Raw: {bin(decimal_val)[2:]})")
         print(f"Hexadecimal (Base 16) : {clean_hex}  (Raw: {hex(decimal_val)[2:].upper()})")
