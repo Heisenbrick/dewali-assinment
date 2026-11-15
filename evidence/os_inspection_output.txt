@@ -1,0 +1,4 @@
+OS Edition: Microsoft Windows 11 Build 26100
+Active User: [redacted]
+Storage C: ~100GB used, ~200GB free
+Sample Process: explorer.exe, svchost.exe
