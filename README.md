@@ -94,3 +94,12 @@ Throughout this investigative assignment, I developed a grounded mental model of
 
 - **Sequential Commits**: Each mission was finished, verified, and committed with an independent, descriptive commit message in sequential order.
 - **Privacy Compliance**: All personal identifiable information, including system usernames, hardware serial numbers, private IP addresses, and Wi-Fi SSIDs, has been sanitized or masked as `[redacted]` in all documentation and logs.
+
+---
+
+## My Learning
+
+During the Digital Detective assignment, several foundational computing insights stood out:
+1. **The Layered Computing Stack**: How user interactions trigger an interconnected chain of events from physical hardware interrupts (IPOS cycle) up through kernel process scheduling and display rendering.
+2. **Deterministic Data Representations**: How diverse data types—from numerical integers in base-10, base-2, and base-16 to international characters in Unicode UTF-8—are represented systematically in binary bits.
+3. **Professional Version Control Disciplines**: How Git feature branches and Pull Requests empower developers to make isolated, testable improvements without disrupting the stable `main` codebase.
