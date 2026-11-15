@@ -1,0 +1,2 @@
+First line of digital detective notes.
+Second line added without removing the first.

@@ -1,0 +1,2 @@
+Directory listing and safe file practice verified.
+practice.txt and archive.txt successfully created and tested.
