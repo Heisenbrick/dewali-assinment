@@ -1,0 +1,11 @@
+Pinging example.com [93.184.216.34] with 32 bytes of data:
+Reply from 93.184.216.34: bytes=32 time=35ms TTL=56
+Reply from 93.184.216.34: bytes=32 time=34ms TTL=56
+Ping statistics for 93.184.216.34:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 35ms, Average = 34ms
+
+Non-authoritative answer:
+Name:    example.com
+Addresses:  93.184.216.34
