@@ -1,0 +1,10 @@
+*   b921de0 Merge pull request #1 from update-about into main
+|\  
+| * db6b7ea Add My Learning section to root README
+|/  
+* f301cde Build number converter and practise data representation
+* ec928a9 Compare compilers and interpreters
+* 9ee9661 Document operating system and file management
+* e51e1ed Complete Terminal and file management mission
+* 523044a Complete computer basics and IPOS mission
+* c46ea3f Set up Digital Detective mission structure
