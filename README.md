@@ -9,8 +9,8 @@
 | **USN** | [Redacted for privacy] |
 | **Campus / Section** | Computer Science and Engineering |
 | **GitHub Username** | Heisenbrick |
-| **GitHub Repository Name** | digital-detective-1234 |
-| **GitHub Repository URL** | https://github.com/Heisenbrick/digital-detective-1234 |
+| **GitHub Repository Name** | dewali-assinment |
+| **GitHub Repository URL** | https://github.com/Heisenbrick/dewali-assinment |
 
 ---
 

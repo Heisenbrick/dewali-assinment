@@ -1,7 +1,7 @@
 # Mission 0 — Repository and workspace setup
 
 ## 1. Task / objective
-The objective of Mission 0 was to establish a structured, version-controlled workspace for the Digital Detective assignment. This required verifying the local development environment (Python 3 and Git installations), establishing a uniform project directory hierarchy with dedicated mission subfolders, initializing a Git repository with a standardized naming convention based on student USN (`digital-detective-1234`), and publishing the initial workspace structure.
+The objective of Mission 0 was to establish a structured, version-controlled workspace for the Digital Detective assignment. This required verifying the local development environment (Python 3 and Git installations), establishing a uniform project directory hierarchy with dedicated mission subfolders, initializing a Git repository (`dewali-assinment`), and publishing the initial workspace structure.
 
 ## 2. Work completed
 - Verified system installation and operational versions of Python 3 (`Python 3.14.6`) and Git (`git version 2.54.0.windows.1`).
