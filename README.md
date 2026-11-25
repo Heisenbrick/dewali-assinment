@@ -6,7 +6,7 @@
 | Field | Details |
 | :--- | :--- |
 | **Name** | Ayush Kumar Mahato |
-| **USN** | [Redacted for privacy] |
+| **USN** | 2392608540 |
 | **Campus / Section** | Computer Science and Engineering |
 | **GitHub Username** | Heisenbrick |
 | **GitHub Repository Name** | dewali-assinment |
