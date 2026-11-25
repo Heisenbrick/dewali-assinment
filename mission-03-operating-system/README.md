@@ -46,7 +46,7 @@ The objective of Mission 3 was to investigate the core responsibilities and inte
 
 #### Absolute vs. Relative Paths
 - **Absolute Path**: An absolute path specifies the complete, unambiguous location of a file or directory starting from the filesystem root volume. It does not depend on the current working directory.
-  - *Example from this project*: `C:\Users\[redacted]\.gemini\antigravity\scratch\digital-detective-1234\mission-03-operating-system\README.md`
+  - *Example from this project*: `C:\Users\[redacted]\.gemini\antigravity\scratch\dewali-assinment\mission-03-operating-system\README.md`
 - **Relative Path**: A relative path locates a target resource starting from the terminal's *current working directory* using directional tokens such as `.` (current folder) or `..` (parent folder).
   - *Example from project root*: `.\mission-03-operating-system\README.md`
 
