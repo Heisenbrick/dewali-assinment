@@ -25,7 +25,7 @@ The objective of Mission 0 was to establish a structured, version-controlled wor
 - `python --version` / `uv run python --version`: Displayed the active Python interpreter version.
 - `git init -b main`: Initialized a new local Git repository with the `main` branch.
 - `git config user.name "Heisenbrick"`: Configured the local Git commit author name.
-- `git config user.email "ayushxmahato@gmail.com"`: Configured the local Git commit email.
+- `git config user.email "[redacted-email]"`: Configured the local Git commit email.
 - `mkdir` / `New-Item`: Created the required folder hierarchy across all missions.
 
 ## 4. My understanding
