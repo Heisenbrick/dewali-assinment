@@ -63,6 +63,9 @@ A **Pull Request (PR)** is a formal review mechanism on platforms like GitHub. I
 - **Publish changes** (`git push <remote> <branch>`): Uploads local branch commits to a remote hosting platform like GitHub.
 - **Retrieve remote changes** (`git pull <remote> <branch>`): Fetches updates from a remote repository and automatically merges them into the current local branch.
 
+## 4. My understanding
+Git separates modifying files, staging them (`git add`), and recording permanent history (`git commit`) so you have full control over what goes into each snapshot. Using branches like `update-about` lets you work on documentation or features safely without breaking `main`, and Pull Requests provide a structured review checkpoint on GitHub before changes are merged. Visualizing the commit graph with `git log` makes it clear how branches diverge and merge back together.
+
 ## 5. Difficulties faced
 Understanding how branch pointers move independently during local checkouts and merges.
 

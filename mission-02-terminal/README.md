@@ -61,6 +61,9 @@ Package managers are indispensable because:
 2. They ensure software integrity and security by verifying cryptographic checksums and digital signatures from verified repositories.
 3. They provide single-command system-wide upgrades without manual web searching, installer downloads, or wizard clicking.
 
+## 4. My understanding
+Working in the Terminal showed me that every file operation—navigating folders, creating files, copying, moving, and inspecting contents—can be done faster and more precisely through text commands than a graphical interface. Understanding the difference between overwriting (`>`) and appending (`>>`), as well as between duplicating data (`cp`) and relocating a directory entry (`mv`), helps prevent accidental data loss. Combining flags (like `ls -la`) with pipes (`|`) lets you filter and chain small tools together to get exactly the output you need, while package managers automate installing and updating software safely.
+
 ## 5. Difficulties faced
 On Windows, native PowerShell commands use cmdlet aliases (e.g. `ls` aliases `Get-ChildItem`, `cat` aliases `Get-Content`). While basic aliases behave similarly to UNIX, advanced flags (like `-la`) require either running through Git Bash or using native PowerShell parameter syntax (`Get-ChildItem -Force`).
 
