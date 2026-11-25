@@ -5,7 +5,7 @@
 
 | Field | Details |
 | :--- | :--- |
-| **Name** | Ayush Mahato |
+| **Name** | Ayush Kumar Mahato |
 | **USN** | [Redacted for privacy] |
 | **Campus / Section** | Computer Science and Engineering |
 | **GitHub Username** | Heisenbrick |
